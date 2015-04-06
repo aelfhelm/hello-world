@@ -1,6 +1,5 @@
 # hello-world
 This is my first GitHub
-public static void main(String[] args)
-{
-
-}
+Im new to this shit and have no idea what im doing
+Seriously
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
